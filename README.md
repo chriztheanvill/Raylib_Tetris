@@ -15,8 +15,6 @@ If Game over, press any key :D
 ## Quit
 Esc or click in the Window X
 
-# VS Code
-Edited in VS Code, once open, 
 
 ![image](https://github.com/chriztheanvill/Raylib_Tetris/assets/37992958/49a87d9c-44e9-4eb9-a793-2ce739481d8f)
 
